@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CanteenIQ Web App
 
 A demo-ready full-stack website for the CanteenIQ Shark Tank project.
@@ -88,6 +87,3 @@ This is a prototype / demo architecture. For a production system, add:
 - POS integration
 - proper ML model and evaluation
 - audit logs and consent/privacy controls
-=======
-# CanteenIQ
->>>>>>> c045c387184ab01ad6d2608283b68b930ee5bea9
